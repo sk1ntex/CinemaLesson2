@@ -1,2 +1,2 @@
 # CinemaLesson2
-Lesson 2
+Верстка главного экрана
